@@ -31,6 +31,7 @@ public class SalaryCalculator {
                 netSalary
         );
     }
+
     public void printText() {
         System.out.println("Hej här kan du få hjälp att räkna ut din lön som egenanställd" +
                 '\n' + "Ange faktura Belopp: ");

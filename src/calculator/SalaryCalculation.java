@@ -21,6 +21,7 @@ public class SalaryCalculation {
             int grossSalaryIncludingSemester,
             int salaryTax,
             int netSalary
+
     ) {
         this.invoiceAmountExVAT = invoiceAmountExVAT;
         this.vat = vat;
